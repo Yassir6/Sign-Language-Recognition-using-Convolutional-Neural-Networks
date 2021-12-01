@@ -10,7 +10,7 @@ and bridging the gap in the process of communication between the Deaf and Dumb p
 ![](Images/photo2.PNG) 
 
 
-After visualizing the data, we started to prepare it for the baseline model. The data image comes with 4 dimensions first we reshaped data to 2-dimensional data and then we built a logistic regression model. The score is very low as we expected 0.54 on training and 0.53 on validation. We start to build a neural network model and try to get better results on both training and validation.
+After visualizing the data, we started to prepare it for the baseline model. The data image comes with 4 dimensions first we reshaped data to 2-dimensional data and then we built a logistic regression model. The score is very low as we expected 0.54 on training and 0.53 on validation. Now we will be starting to build a neural network model and try to get better results on both training and validation.
 * Neural Network
 * Convolutional Neural Network(CNN)
 * Transfer Learning 
